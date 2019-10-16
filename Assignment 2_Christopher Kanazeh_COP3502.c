@@ -1,7 +1,5 @@
 /* Christopher Kanazeh
 Assignment 2 COP 3502
-Professor Whiting
-3/3/2015
 */
 
 //Declare Libraries
